@@ -7,6 +7,3 @@ def calc_min_max_temperature(temperature_values_list):
     min_temp = min(temperature_values_list)
     max_temp = max(temperature_values_list)
     return [min_temp, max_temp]
-
-calc_average_temperature()
-calc_min_max_temperature()
